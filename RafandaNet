@@ -1,0 +1,86 @@
+#EXTINF:-1  group-title="LOKAL", MNCTV
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1  group-title="LOKAL", GLOBALTV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1  group-title="LOKAL", RCTI
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1  group-title="LOKAL", SCTV
+http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
+#EXTINF:-1  group-title="LOKAL", RTV
+http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1  group-title="LOKAL", ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+#EXTINF:-1  group-title="LOKAL", TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1  group-title="LOKAL", TRANS7
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+#EXTINF:-1  group-title="LOKAL", INDOSIAR
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1  group-title="LOKAL", METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w964990100_b232000_sleng.m3u8
+#EXTINF:-1  group-title="LOKAL", TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1  group-title="LOKAL", NEWS TV
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1  group-title="LOKAL", TVRI
+http://id1.indostreamingtv.com/live/tvri/index.m3u8
+#EXTINF:-1  group-title="LOKAL", NET
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+#EXTINF:-1  group-title="LOKAL", RTV
+http://rr2.dens.tv/s/s12/02.m3u8
+#EXTINF:-1  group-title="LOKAL", KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1  group-title="LOKAL", DAAI TV
+http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
+#EXTINF:-1  group-title="LOKAL", JAK TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1  group-title="LOKAL", JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1  group-title="LOKAL", ELSHINTA TV
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1  group-title="LOKAL", BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1  group-title="LOKAL-2", MNCTV
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1  group-title="LOKAL-2", GLOBALTV
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1  group-title="LOKAL-2", RCTI
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1  group-title="LOKAL-2", SCTV
+http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
+#EXTINF:-1  group-title="LOKAL-2", SCTV-2
+http://210.210.155.35/session/c4149592-07c5-11ea-888f-b82a72d63267/qwr9ew/s/s103/01.m3u8
+#EXTINF:-1  group-title="LOKAL-2", ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+#EXTINF:-1  group-title="LOKAL-2", TRANSTV
+http://210.210.155.35/session/0fd20eca-07c5-11ea-9bba-c81f66f89318/qwr9ew/s/s100/01.m3u8
+#EXTINF:-1  group-title="LOKAL-2", TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1  group-title="LOKAL-2", INDOSIAR
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1  group-title="LOKAL-2", METRO TV
+http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1  group-title="LOKAL-2", TV ONE
+https://www.viva.co.id/tvone/live
+#EXTINF:-1  group-title="LOKAL-2", INEWS TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1  group-title="LOKAL-2", TVRI
+http://id1.indostreamingtv.com/live/tvri/index.m3u8
+#EXTINF:-1  group-title="LOKAL-2", NET
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+#EXTINF:-1  group-title="LOKAL-2", RTV
+http://rr2.dens.tv/s/s12/02.m3u8
+#EXTINF:-1  group-title="LOKAL-2", KOMPAS TV
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1  group-title="LOKAL-2", DAAI TV
+http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
+#EXTINF:-1  group-title="LOKAL-2", JAK TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1  group-title="LOKAL-2", JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1  group-title="LOKAL-2", ELSHINTA TV
+http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1  group-title="LOKAL-2", BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C11GK0PM/rodjatv.png" group-title="LOKAL-2", RODJA TV
+http://45.126.83.51/qwr9ew/s/s14/index2.m3u8
